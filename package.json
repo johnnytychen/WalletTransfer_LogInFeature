@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "secp256k1": "^5.0.0"
+  }
+}
